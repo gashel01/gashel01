@@ -49,3 +49,5 @@ I like working across the stack — designing an API and the UI that consumes it
 ---
 
 <sub>Open to senior frontend / full-stack / AI engineering roles — fully remote. The MCP AI Suite libraries are open source (Apache-2.0) on PyPI; ping me for a walkthrough.</sub>
+
+<!-- profile -->
